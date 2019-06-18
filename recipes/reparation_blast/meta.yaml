@@ -32,6 +32,7 @@ requirements:
     - prodigal
     - glimmer
     - blast =2.7.1
+    - openssl =1.0.2
 
 test:
   commands:
